@@ -11,8 +11,8 @@ This is my solution for projects in CS61a FALL 2020
 ## course progress
 
 - project
-  - [ ] Proj 0
-  - [ ] Proj 1
-  - [ ] Proj 1EC
-  - [ ] Proj 2
-  - [ ] Proj 3
+  - [x] Proj-Hog
+  - [ ] Proj-Cat
+  - [ ] Proj-Ants
+  - [ ] Proj-Scheme
+
