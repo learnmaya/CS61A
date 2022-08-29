@@ -13,6 +13,6 @@ This is my solution for projects in CS61a FALL 2020
 - project
   - [x] Proj-Hog
   - [ ] Proj-Cat
-  - [ ] Proj-Ants
+  - [x] Proj-Ants
   - [ ] Proj-Scheme
 
